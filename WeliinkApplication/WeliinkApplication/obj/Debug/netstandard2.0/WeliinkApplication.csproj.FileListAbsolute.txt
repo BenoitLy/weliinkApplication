@@ -1,0 +1,11 @@
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\bin\Debug\netstandard2.0\WeliinkApplication.deps.json
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\bin\Debug\netstandard2.0\WeliinkApplication.dll
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\bin\Debug\netstandard2.0\WeliinkApplication.pdb
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.csproj.CoreCompileInputs.cache
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.App.xaml.g.cs
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.MainPage.xaml.g.cs
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.AssemblyInfoInputs.cache
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.AssemblyInfo.cs
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.dll
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.pdb
+D:\WeLiink\WeliinkApplication\WeliinkApplication\WeliinkApplication\obj\Debug\netstandard2.0\WeliinkApplication.csprojResolveAssemblyReference.cache
