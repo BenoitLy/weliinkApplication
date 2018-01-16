@@ -4,12 +4,9 @@
              xmlns:local="clr-namespace:WeliinkApplication"
              x:Class="WeliinkApplication.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
+    <Label Text="Welcome to Xamarin.Forms!" 
            VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
-    <Label Text="Shut up man it work !" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+           HorizontalOptions="Center"
+           x:Name="Name"/>
 
 </ContentPage>
